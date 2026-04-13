@@ -1,0 +1,49 @@
+# Basic Template Classification (Yihao 220)
+
+Source collection:
+`D:\BaiduNetdiskDownload\1000套前端模版\响应式前端网站模板源码\分类打包\220套简单网页模板     【简易前端素材-基础差的使用】\天字一号网络220套网页模板`
+
+This batch is lower quality and more weakly labelled than the earlier premium HTML5 template collections. Treat it as a basic-practice and simple-template source pool rather than a high-confidence premium template corpus.
+
+## Corporate / company / service websites
+202_IT公司, 203_科技公司, 207_蓝色商务, 209_高端商务模板, 214_电话销售公司_单页, 219_投资理财, 229_蓝色商务网站模板, 236 - 蓝色作品, 239 - 单页, 249, 251, 252
+
+## Portfolio / creative / showcase
+203_科技公司, 206_蓝色摄影, 222_响应式摄影/展示_单页, 236 - 蓝色作品, 237 - 单页带动态效果, 243 - 展示类, 244 - Freelancer, 246 - 彩色单页, 260
+
+## Blog / news / content-heavy
+208_时尚内容类, 210_DJ音乐, 211_医学研究, 223_响应式新闻媒体网站, 227_美食餐厅, 245, 252, 253, 254, 256
+
+## Product / e-commerce / app showcase
+204_鞋类商城, 205_电商/产品型科技企业_单页, 214_电话销售公司_单页, 225_电影票购买, 228_手机APP应用官网, 242 - 产品, 247 - 展示页, 258
+
+## Industry-specific
+211_医学研究, 212_豪华度假酒店, 215_Taxi, 216_医疗行业_单页, 217_旅游公司, 218_婚车婚庆公司, 220_响应式餐饮美食, 221_餐饮美食, 224_医疗行业_响应页, 226_水果拼盘, 227_美食餐厅, 231 - 粉色婚纱, 232 - 婚纱摄影, 234 - 响应式医疗器械网站, 235 - 东南亚旅游类, 255, 259
+
+## One-page / landing / transitional
+201_腾讯2013风_单页, 214_电话销售公司_单页, 216_医疗行业_单页, 222_响应式摄影/展示_单页, 237 - 单页带动态效果, 238 - 单页带动态效果, 239 - 单页, 240 - 单页带动态效果, 244 - Freelancer, 246 - 彩色单页, 248 - 蓝色单页, 257, 260
+
+## Review later / low-confidence items
+- 220套预览图
+- yihaowangluo.taobao.com2
+- yihaowangluo.taobao.com6
+- yihaowangluo.taobao.com25
+- yihaowangluo.taobao.com28
+- 230_蓝色IT公司发布会动效
+- 231 - 粉色婚纱
+- 232 - 婚纱摄影
+- 238 - 单页带动态效果
+- 241 - 展示型
+- 250
+- 254
+- most `天字一号网络 (xx)` items with empty titles and only one html file
+
+## Practical note
+
+Use this batch mainly for:
+- beginner-friendly structure references
+- basic static-site practice
+- simple industry-site examples
+- lightweight one-page and company-site inspiration
+
+Do not treat it as equal-quality material compared with the premium 001-260 template collections.

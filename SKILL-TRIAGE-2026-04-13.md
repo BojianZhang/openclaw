@@ -100,6 +100,10 @@ Target folder reviewed: `migrated-skills/`
 ### C. 建议单独归档观察
 - `self-improving-agent`
 
+## 已执行动作
+
+- 已将 `self-improving-agent` 移入 `migrated-skills/_archive/self-improving-agent`
+
 ## 我给你的实际建议
 
 如果你想继续收口，我建议下一步做的是：

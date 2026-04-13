@@ -31,7 +31,7 @@ Copied into `migrated-skills/` for safe review-first import:
 - `frontend-template-corpus`
 - `frontend-slides`
 - `html-template-refactor`
-- `self-improving-agent`
+- `self-improving-agent` (later archived to `migrated-skills/_archive/self-improving-agent`)
 - `skill-vetter`
 - `summarize`
 

@@ -1,0 +1,7 @@
+# Temporary files
+tmp_refactor_entry.py
+tmp_*
+
+# OS
+.DS_Store
+Thumbs.db

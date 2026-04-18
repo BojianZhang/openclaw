@@ -1,0 +1,1 @@
+[main/sessions/1b763d47-516c-49cb-b702-999e738f0499.jsonl#L5] User: [Fri 2026-04-17 11:45 GMT+8] Write a dream diary entry from these memory fragments: - - 2026-04-13：已新增 `D:\playwright\Dreamina\Dreamina-batch-runner.js`，这是新架构批量运行入口的最小 runnable 雏形，语义上明确属于新架构而不是老 `runner.js` 的延伸。当前版本已具备：CLI 参数解析、账号队列、简单代理轮询分配、worker loop、调用 `runDreaminaRegis
